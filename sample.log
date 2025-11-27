@@ -1,0 +1,7 @@
+2025-11-10 10:00:01 INFO User 192.168.0.10 logged in successfully
+2025-11-10 10:01:22 WARNING Disk space low on /dev/sda1
+2025-11-10 10:02:11 ERROR Failed to open database connection from 10.0.0.5
+2025-11-10 10:03:45 INFO Request from 192.168.0.10 to /index.html
+2025-11-10 10:04:02 ERROR Failed password for root from 203.0.113.8 port 22 ssh2
+2025-11-10 10:05:19 INFO User 10.0.0.5 logged out
+2025-11-10 10:06:33 WARNING High memory usage detected on 192.168.0.10
